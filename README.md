@@ -556,6 +556,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Liz Lam](https://lizlam.github.io)
 - [Long Do](https://longpdo.github.io)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio/)
+- [Lucas Batista](https://lucasbatista.online)
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
 - [Lucas Lima](https://lucas-lima.vercel.app)
