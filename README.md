@@ -163,6 +163,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
+- [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
 - [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Aviral Dixit](https://aviraldixit.in)
@@ -489,6 +490,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
+- [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-end Developer]
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Judicaël AHYI](https://judicael-ahyi.com)
 - [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
@@ -655,6 +657,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
+- [Nafas Ebrahimi](https://nafasebra.ir)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
 - [Nathan Simpson](https://nathansimpson.design)
@@ -908,6 +911,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
+- [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
 ## T
